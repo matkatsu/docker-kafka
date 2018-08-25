@@ -13,7 +13,7 @@ $ docker-compose up -d
 
 ## 停止
 ```
-$ docker-compose donw
+$ docker-compose down
 ```
 
 # Go クライアントサンプル
